@@ -1,5 +1,10 @@
 You can create a merge request by running Git commands on your local machine.
 Create a branch: git checkout -b my-new-branch.
-Create, edit, or delete files. The stage and commit them: git add . git commit -m "My commit message"
-Copy the link and paste it in your browser.
+Create, edit, or delete files.
+git clone
+git status
+git add
+git commit
+git push
+git pull
 
