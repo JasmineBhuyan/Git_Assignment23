@@ -1,2 +1,5 @@
 Hello this is a git training session
 
+git clone
+git status
+git add
