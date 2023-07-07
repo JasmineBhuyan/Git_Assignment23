@@ -3,3 +3,8 @@ Hello this is a git training session
 git clone
 git status
 git add
+git commit
+git push
+git pull
+4=2+2
+9-5=4
